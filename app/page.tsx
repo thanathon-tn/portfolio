@@ -11,7 +11,7 @@ export default function Home() {
   const hasWebGL = useWebGL();
 
   return (
-    <div className="w-vw relative flex h-dvh overflow-x-hidden overflow-y-scroll bg-gradient-to-b from-gray-100 via-gray-200 via-90% to-sky-100 font-[family-name:var(--font-geist-sans)]">
+    <div className="relative flex h-full w-full bg-linear-to-b from-gray-100 via-gray-200 via-90% to-sky-100 bg-fixed font-[family-name:var(--font-geist-sans)]">
       <div className="flex h-max w-full flex-col items-center">
         <div className="aspect-[3.2] w-full max-w-screen-lg overflow-visible sm:aspect-[2.5] md:aspect-[2]">
           {hasWebGL ? (
