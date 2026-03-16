@@ -43,8 +43,8 @@ export default function Home() {
 
             <div className="flex flex-col gap-4">
               <h2 className="max-w-96">
-                My name is <b>Thanathon Holm</b>. I am a Front-end Engineer and Graphic Designer,
-                currently working at Microchip Technology.
+                My name is <b>Thanathon Holm</b>. I am a Software Developer with passion in Graphic Design,
+                currently working at Telenor Norge AS.
               </h2>
             </div>
           </div>
@@ -143,11 +143,11 @@ export default function Home() {
             <span className="px-2">© 2025 Thanathon Holm</span>
 
             <a
-              href="https://github.com/pikarioh/portfolio"
+              href="https://github.com/thanathon-tn"
               target="_blank"
               className="px-2 underline"
             >
-              Source Code
+              GitHub
             </a>
           </div>
         </div>
