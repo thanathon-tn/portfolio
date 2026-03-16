@@ -140,7 +140,7 @@ export default function Home() {
           </div>
 
           <div className="divite-gray-300 flex justify-center divide-x p-8 text-sm text-gray-700">
-            <span className="px-2">© 2025 Thanathon Holm</span>
+            <span className="px-2">© 2026 Thanathon Holm</span>
 
             <a
               href="https://github.com/thanathon-tn"
